@@ -1,0 +1,199 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectName": "Scoreboard",
+      "colorClass": "color-scoreboard"
+    },
+    {
+      "id": 2,
+      "projectName": "Book Store",
+      "colorClass": "color-bookstore"
+    },
+    {
+      "id": 3,
+      "projectName": "Blog Application",
+      "colorClass": "color-blog"
+    },
+    {
+      "id": 4,
+      "projectName": "Job Finder",
+      "colorClass": "color-jobFinder"
+    }
+  ],
+  "team": [
+    {
+      "name": "Sumit Saha",
+      "avatar": "/images/avatars/sumit.png",
+      "bio": "Founder of LWS Team",
+      "id": 1
+    },
+    {
+      "name": "Saad Hasan",
+      "avatar": "/images/avatars/sadh.png",
+      "bio": "Software Engineer",
+      "id": 2
+    },
+    {
+      "name": "Akash Ahmed",
+      "avatar": "/images/avatars/akash.png",
+      "bio": "Software Engineer",
+      "id": 3
+    },
+    {
+      "name": "Md Salahuddin",
+      "avatar": "/images/avatars/salahuddin.png",
+      "bio": "Software Engineer",
+      "id": 4
+    },
+    {
+      "name": "Riyadh Hassan",
+      "avatar": "/images/avatars/riyadh.png",
+      "bio": "Software Engineer",
+      "id": 5
+    },
+    {
+      "name": "Ferdous Hassan",
+      "avatar": "/images/avatars/ferdous.png",
+      "bio": "Software Engineer",
+      "id": 6
+    },
+    {
+      "name": "Arif Almas",
+      "avatar": "/images/avatars/almas.png",
+      "bio": "Software Engineer",
+      "id": 7
+    }
+  ],
+  "tasks": [
+    {
+      "taskName": " done final aaaaaaaaaaaaaaaaaa",
+      "teamMember": {
+        "name": "Arif Almas",
+        "avatar": "/images/avatars/almas.png",
+        "id": 7
+      },
+      "project": {
+        "id": 2,
+        "projectName": "Flight Booking",
+        "colorClass": "color-flight"
+      },
+      "deadline": "2023-03-16",
+      "id": 2,
+      "status": "inProgress"
+    },
+    {
+      "taskName": "asdasdasd",
+      "project": {
+        "id": 2,
+        "projectName": "Book Store",
+        "colorClass": "color-bookstore"
+      },
+      "deadline": "2023-09-22",
+      "priority": "fasfas",
+      "description": "dsadasf",
+      "id": 7,
+      "teamMember": {
+        "name": "Arif Almas",
+        "avatar": "/images/avatars/almas.png",
+        "id": 7
+      },
+      "status": "inProgress"
+    },
+    {
+      "taskName": "newsw",
+      "project": {
+        "id": 3,
+        "projectName": "Blog Application",
+        "colorClass": "color-blog"
+      },
+      "deadline": "2023-09-22",
+      "priority": "high",
+      "description": "dsadasf",
+      "id": 9,
+      "teamMember": {
+        "name": "Riyadh Hassan",
+        "avatar": "/images/avatars/riyadh.png",
+        "bio": "Software Engineer",
+        "id": 5
+      },
+      "status": "pending"
+    },
+    {
+      "taskName": "65756",
+      "project": {
+        "id": 4,
+        "projectName": "Job Finder",
+        "colorClass": "color-jobFinder"
+      },
+      "deadline": "2023-10-04",
+      "priority": "rdtdtd",
+      "description": "retgdrfg",
+      "id": 10,
+      "teamMember": {
+        "name": "Sumit Saha",
+        "avatar": "/images/avatars/sumit.png",
+        "bio": "Founder of LWS Team",
+        "id": 1
+      },
+      "status": "inProgress"
+    },
+    {
+      "taskName": "newsw",
+      "project": {
+        "id": 2,
+        "projectName": "Book Store",
+        "colorClass": "color-bookstore"
+      },
+      "deadline": "2023-09-22",
+      "priority": "32er",
+      "description": "afridi asgdasdasdas",
+      "id": 11,
+      "teamMember": {
+        "name": "Ferdous Hassan",
+        "avatar": "/images/avatars/ferdous.png",
+        "bio": "Software Engineer",
+        "id": 6
+      },
+      "status": "complete"
+    },
+    {
+      "taskName": "asssssssssssssssss",
+      "project": {
+        "id": 1,
+        "projectName": "Scoreboard",
+        "colorClass": "color-scoreboard"
+      },
+      "deadline": "2023-09-22",
+      "priority": "saaaaaaaaaa",
+      "description": "sadddddddddddd",
+      "id": 12,
+      "teamMember": {
+        "name": "Akash Ahmed",
+        "avatar": "/images/avatars/akash.png",
+        "bio": "Software Engineer",
+        "id": 3
+      },
+      "status": "pending"
+    },
+    {
+      "taskName": "job box",
+      "teamMember": {
+        "name": "Sumit Saha",
+        "avatar": "/images/avatars/sumit.png",
+        "bio": "Founder of LWS Team",
+        "id": 1
+      },
+      "project": {
+        "id": 3,
+        "projectName": "Blog Application",
+        "colorClass": "color-blog"
+      },
+      "deadline": "2023-09-28",
+      "priority": "saaaaaaaaaa",
+      "description": "news",
+      "status": "pending",
+      "id": 13
+    }
+  ]
+}
